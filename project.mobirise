@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Brückenbauer",
-    "currentPage": "index.html",
+    "currentPage": "formularseite.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -441,7 +441,7 @@
         }
       ]
     },
-    "page1.html": {
+    "formularseite.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Formularseite",
